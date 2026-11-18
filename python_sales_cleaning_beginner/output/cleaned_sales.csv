@@ -1,0 +1,6 @@
+order_id,customer,product,price,quantity,city
+1001,Anna,Laptop,25000.0,2,Kyiv
+1002,Bohdan,Mouse,800.0,5,Kyiv
+1003,Ira,Monitor,7000.0,3,Lviv
+1005,Anna,Laptop,25000.0,2,Kyiv
+1009,Sofia,Keyboard,1500.0,2,Lviv

@@ -1,0 +1,11 @@
+order_id,customer,product,price,quantity,city
+1001, Anna ,Laptop,25000,2, Kyiv
+1002,BOHDAN,Mouse,800,5,kyiv
+1003,Ira,Monitor,7000,3,Lviv
+1004,Olena,Keyboard,invalid,4,Odesa
+1005, Anna ,Laptop,25000,2, Kyiv
+1006,Petro,Headphones,3500,0,Kharkiv
+1007,Ira,Mouse,,2,Lviv
+1008,Olena,Monitor,7000,-1,Odesa
+1009,  SOFIA ,Keyboard,1500,2,  lviv  
+1009,  SOFIA ,Keyboard,1500,2,  lviv  

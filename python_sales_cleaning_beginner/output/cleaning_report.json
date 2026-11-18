@@ -1,0 +1,10 @@
+{
+    "total_rows": 10,
+    "cleaned_rows": 5,
+    "rejected": {
+        "missing": 1,
+        "invalid_type": 1,
+        "invalid_value": 2,
+        "duplicates": 1
+    }
+}
